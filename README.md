@@ -1,1 +1,1 @@
-Simulation structure for selecting an optimal innovation through the GAS model.
+Simulation structure for selecting an optimal error distribution through the GAS model.
